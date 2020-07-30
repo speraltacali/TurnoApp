@@ -1,0 +1,287 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Domain.Repository\\TA.Domain.Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Base.Repository\\TA.Repository.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Base.Repository\\TA.Repository.Base.csproj",
+        "projectName": "TA.Repository.Base",
+        "projectPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Base.Repository\\TA.Repository.Base.csproj",
+        "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Base.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\TA.Domain.BaseEntity.csproj": {
+                "projectPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\TA.Domain.BaseEntity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\TA.Domain.BaseEntity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\TA.Domain.BaseEntity.csproj",
+        "projectName": "TA.Domain.BaseEntity",
+        "projectPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\TA.Domain.BaseEntity.csproj",
+        "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Domain.Entity\\TA.Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Domain.Entity\\TA.Domain.Entity.csproj",
+        "projectName": "TA.Domain.Entity",
+        "projectPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Domain.Entity\\TA.Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Domain.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\TA.Domain.BaseEntity.csproj": {
+                "projectPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\TA.Domain.BaseEntity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Domain.Repository\\TA.Domain.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Domain.Repository\\TA.Domain.Repository.csproj",
+        "projectName": "TA.Domain.Repository",
+        "projectPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Domain.Repository\\TA.Domain.Repository.csproj",
+        "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Domain.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Base.Repository\\TA.Repository.Base.csproj": {
+                "projectPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Base.Repository\\TA.Repository.Base.csproj"
+              },
+              "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Domain.Entity\\TA.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Domain.Entity\\TA.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

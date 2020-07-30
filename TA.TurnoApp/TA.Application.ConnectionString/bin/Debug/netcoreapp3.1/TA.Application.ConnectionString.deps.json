@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TA.Application.ConnectionString/1.0.0": {
+        "runtime": {
+          "TA.Application.ConnectionString.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TA.Application.ConnectionString/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

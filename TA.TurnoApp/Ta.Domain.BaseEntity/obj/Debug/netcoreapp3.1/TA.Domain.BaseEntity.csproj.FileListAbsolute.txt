@@ -1,0 +1,11 @@
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\Ta.Domain.BaseEntity\bin\Debug\netcoreapp3.1\TA.Domain.BaseEntity.deps.json
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\Ta.Domain.BaseEntity\bin\Debug\netcoreapp3.1\TA.Domain.BaseEntity.runtimeconfig.json
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\Ta.Domain.BaseEntity\bin\Debug\netcoreapp3.1\TA.Domain.BaseEntity.runtimeconfig.dev.json
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\Ta.Domain.BaseEntity\bin\Debug\netcoreapp3.1\TA.Domain.BaseEntity.dll
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\Ta.Domain.BaseEntity\bin\Debug\netcoreapp3.1\TA.Domain.BaseEntity.pdb
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\Ta.Domain.BaseEntity\obj\Debug\netcoreapp3.1\TA.Domain.BaseEntity.AssemblyInfoInputs.cache
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\Ta.Domain.BaseEntity\obj\Debug\netcoreapp3.1\TA.Domain.BaseEntity.AssemblyInfo.cs
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\Ta.Domain.BaseEntity\obj\Debug\netcoreapp3.1\TA.Domain.BaseEntity.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\Ta.Domain.BaseEntity\obj\Debug\netcoreapp3.1\TA.Domain.BaseEntity.dll
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\Ta.Domain.BaseEntity\obj\Debug\netcoreapp3.1\TA.Domain.BaseEntity.pdb
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\Ta.Domain.BaseEntity\obj\Debug\netcoreapp3.1\TA.Domain.BaseEntity.genruntimeconfig.cache
