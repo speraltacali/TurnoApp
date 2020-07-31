@@ -7,18 +7,18 @@ namespace TA.IService.User_Empresa
 {
     public interface IUser_EmpresaService
     {
-        User_Empresa Add(User_EmpresaDto dto);
+        User_EmpresaDto Add(User_EmpresaDto dto);
 
-        User_Empresa Update(User_Empresa dto);
+        User_EmpresaDto Update(User_EmpresaDto dto);
 
         void Delete(long id);
 
         void Save();
 
-        IEnumerable<User_Empresa> GetAll();
+        IEnumerable<User_EmpresaDto> GetAll();
 
-        IEnumerable<User_Empresa> GetAllFilter(string query);
+        IEnumerable<User_EmpresaDto> GetByFilter(string query);
 
-        User_Empresa GetById(long id);
+        User_EmpresaDto GetById(long id);
     }
 }

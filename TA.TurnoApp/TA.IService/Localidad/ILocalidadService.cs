@@ -17,7 +17,7 @@ namespace TA.IService.Localidad
 
         IEnumerable<LocalidadDto> GetAll();
 
-        IEnumerable<LocalidadDto> GetAllFilter(string query);
+        IEnumerable<LocalidadDto> GetByFilter(string query);
 
         LocalidadDto GetById(long id);
     }

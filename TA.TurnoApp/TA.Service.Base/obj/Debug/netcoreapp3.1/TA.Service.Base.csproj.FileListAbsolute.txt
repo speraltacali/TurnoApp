@@ -1,0 +1,9 @@
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Service.Base\bin\Debug\netcoreapp3.1\TA.Service.Base.deps.json
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Service.Base\bin\Debug\netcoreapp3.1\TA.Service.Base.dll
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Service.Base\bin\Debug\netcoreapp3.1\TA.Service.Base.pdb
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Service.Base\obj\Debug\netcoreapp3.1\TA.Service.Base.csprojAssemblyReference.cache
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Service.Base\obj\Debug\netcoreapp3.1\TA.Service.Base.AssemblyInfoInputs.cache
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Service.Base\obj\Debug\netcoreapp3.1\TA.Service.Base.AssemblyInfo.cs
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Service.Base\obj\Debug\netcoreapp3.1\TA.Service.Base.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Service.Base\obj\Debug\netcoreapp3.1\TA.Service.Base.dll
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Service.Base\obj\Debug\netcoreapp3.1\TA.Service.Base.pdb

@@ -17,7 +17,7 @@ namespace TA.IService.Reserva_Turno
 
         IEnumerable<Reserva_TurnoDto> GetAll();
 
-        IEnumerable<Reserva_TurnoDto> GetAllFilter(string query);
+        IEnumerable<Reserva_TurnoDto> GetByFilter(string query);
 
         Reserva_TurnoDto GetById(long id);
     }

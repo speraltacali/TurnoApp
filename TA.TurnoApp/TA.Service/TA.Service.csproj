@@ -12,11 +12,8 @@
     <Folder Include="Provincia\" />
     <Folder Include="Pais\" />
     <Folder Include="Empresa_Domicilio\" />
-    <Folder Include="Domicilio\" />
     <Folder Include="Reserva_Turno\" />
     <Folder Include="Turno\" />
-    <Folder Include="Cliente\" />
-    <Folder Include="Categoria\" />
   </ItemGroup>
 
   <ItemGroup>

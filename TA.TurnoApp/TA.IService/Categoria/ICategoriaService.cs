@@ -17,7 +17,7 @@ namespace TA.IService.Categoria
 
         IEnumerable<CategoriaDto> GetAll();
 
-        IEnumerable<CategoriaDto> GetAllFilter(string query);
+        IEnumerable<CategoriaDto> GetByFilter(string query);
 
         CategoriaDto GetById(long id);
 

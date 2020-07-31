@@ -17,7 +17,7 @@ namespace TA.IService.Domicilio
 
         IEnumerable<DomicilioDto> GetAll();
 
-        IEnumerable<DomicilioDto> GetAllFilter(string query);
+        IEnumerable<DomicilioDto> GetByFilter(string query);
 
         DomicilioDto GetById(long id);
     }

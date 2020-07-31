@@ -18,6 +18,8 @@ namespace TA.Domain.Entity.Entity
 
         public int NumDepartamento { get; set; }
 
+        public bool Eliminado { get; set; }
+
         [ForeignKey("Localidad")]
         public long LocalidadId { get; set; }
 

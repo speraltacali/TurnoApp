@@ -17,7 +17,7 @@ namespace TA.IService.Pais
 
         IEnumerable<PaisDto> GetAll();
 
-        IEnumerable<PaisDto> GetAllFilter(string query);
+        IEnumerable<PaisDto> GetByFilter(string query);
 
         PaisDto GetById(long id);
     }

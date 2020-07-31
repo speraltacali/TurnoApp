@@ -17,7 +17,7 @@ namespace TA.IService.Turno
 
         IEnumerable<TurnoDto> GetAll();
 
-        IEnumerable<TurnoDto> GetAllFilter(string query);
+        IEnumerable<TurnoDto> GetByFilter(string query);
 
         TurnoDto GetById(long id);
     }

@@ -17,7 +17,7 @@ namespace TA.IService.Provincia
 
         IEnumerable<ProvinciaDto> GetAll();
 
-        IEnumerable<ProvinciaDto> GetAllFilter(string query);
+        IEnumerable<ProvinciaDto> GetByFilter(string query);
 
         ProvinciaDto GetById(long id);
     }

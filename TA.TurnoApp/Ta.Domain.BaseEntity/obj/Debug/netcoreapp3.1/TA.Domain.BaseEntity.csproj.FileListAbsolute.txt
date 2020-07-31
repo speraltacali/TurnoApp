@@ -9,3 +9,4 @@ C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\Ta.Domain.BaseEnti
 C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\Ta.Domain.BaseEntity\obj\Debug\netcoreapp3.1\TA.Domain.BaseEntity.dll
 C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\Ta.Domain.BaseEntity\obj\Debug\netcoreapp3.1\TA.Domain.BaseEntity.pdb
 C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\Ta.Domain.BaseEntity\obj\Debug\netcoreapp3.1\TA.Domain.BaseEntity.genruntimeconfig.cache
+C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\Ta.Domain.BaseEntity\obj\Debug\netcoreapp3.1\TA.Domain.BaseEntity.csprojAssemblyReference.cache

@@ -17,6 +17,8 @@ namespace TA.IService.Domicilio.Dto
 
         public int NumDepartamento { get; set; }
 
+        public bool Eliminado { get; set; }
+
         public long LocalidadId { get; set; }
     }
 }

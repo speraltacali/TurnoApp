@@ -17,7 +17,7 @@ namespace TA.IService.Empresa_Domicilio
 
         IEnumerable<Empresa_DomicilioDto> GetAll();
 
-        IEnumerable<Empresa_DomicilioDto> GetAllFilter(string query);
+        IEnumerable<Empresa_DomicilioDto> GetByFilter(string query);
 
         Empresa_DomicilioDto GetById(long id);
     }
