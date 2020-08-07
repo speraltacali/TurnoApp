@@ -7,6 +7,7 @@ namespace TA.IService.Turno.Dto
 {
     public class TurnoDto : BaseEntityDto
     {
+        public DateTime FechaTurno { get; set; }
 
         public DateTime Dia { get; set; }
 
@@ -17,6 +18,8 @@ namespace TA.IService.Turno.Dto
         public bool Ocupado { get; set; }
 
         public bool CancelacionEmpresa { get; set; }
+
+        public bool Eliminado { get; set; }
 
         public long EmpresaId { get; set; }
 

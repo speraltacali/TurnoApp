@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TA.Domain.Entity.Entity
 {
-    [Table("Table")]
+    [Table("Localidad")]
     public class Localidad : BaseEntity.BaseEntity
     {
         public string Descripcion { get; set; }

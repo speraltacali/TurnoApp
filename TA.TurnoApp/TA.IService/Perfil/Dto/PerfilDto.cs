@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
+using TA.Service.Base;
 
-namespace TA.Domain.Entity.Entity
+namespace TA.IService.Perfil.Dto
 {
-    [Table("Perfil")]
-    public class Perfil : BaseEntity.BaseEntity
+    public class PerfilDto : BaseEntityDto
     {
         public string Descripcion { get; set; }
 

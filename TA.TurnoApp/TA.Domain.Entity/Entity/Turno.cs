@@ -20,6 +20,8 @@ namespace TA.Domain.Entity.Entity
 
         public bool CancelacionEmpresa { get; set; }
 
+        public bool Eliminado { get; set; }
+
         [ForeignKey("Empresa")]
         public long EmpresaId { get; set; }
 

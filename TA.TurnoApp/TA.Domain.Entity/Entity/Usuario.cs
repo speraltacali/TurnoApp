@@ -14,6 +14,8 @@ namespace TA.Domain.Entity.Entity
 
         public bool Bloqueado { get; set; }
 
+        public bool Eliminado { get; set; }
+
         [ForeignKey("Perfil")]
         public long PerfilId { get; set; }
 

@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TA.Infraestructure.Context;
 
 namespace TA.Infraestrucuture.Context.Migrations
 {
     [DbContext(typeof(Infraestructure.Context.Context))]
-    partial class ContextModelSnapshot : ModelSnapshot
+    [Migration("20200807040233_FinishService")]
+    partial class FinishService
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -185,7 +187,7 @@ namespace TA.Infraestrucuture.Context.Migrations
 
                     b.HasIndex("ProvinciaId");
 
-                    b.ToTable("Localidad");
+                    b.ToTable("Table");
                 });
 
             modelBuilder.Entity("TA.Domain.Entity.Entity.Pais", b =>

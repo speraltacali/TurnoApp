@@ -17,7 +17,9 @@ namespace TA.IService.User_Cliente
 
         IEnumerable<User_ClienteDto> GetAll();
 
-        IEnumerable<User_ClienteDto> GetByFilter(string query);
+        IEnumerable<User_ClienteDto> GetByUsuario(long id);
+
+        IEnumerable<User_ClienteDto> GetByCliente(long id);
 
         User_ClienteDto GetById(long id);
     }

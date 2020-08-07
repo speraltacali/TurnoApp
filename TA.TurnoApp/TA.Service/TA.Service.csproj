@@ -5,11 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="User_Cliente\" />
     <Folder Include="User_Empresa\" />
     <Folder Include="Usuario\" />
-    <Folder Include="Reserva_Turno\" />
-    <Folder Include="Turno\" />
   </ItemGroup>
 
   <ItemGroup>
