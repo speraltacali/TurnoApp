@@ -17,7 +17,9 @@ namespace TA.IService.User_Empresa
 
         IEnumerable<User_EmpresaDto> GetAll();
 
-        IEnumerable<User_EmpresaDto> GetByFilter(string query);
+        IEnumerable<User_EmpresaDto> GetByEmpresa(long id);
+
+        IEnumerable<User_EmpresaDto> GetByUsuario(long id);
 
         User_EmpresaDto GetById(long id);
     }

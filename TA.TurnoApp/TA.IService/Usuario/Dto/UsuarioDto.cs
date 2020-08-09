@@ -13,6 +13,8 @@ namespace TA.IService.Usuario.Dto
 
         public bool Bloqueado { get; set; }
 
+        public bool Eliminado { get; set; }
+
         public long PerfilId { get; set; }
     }
 }

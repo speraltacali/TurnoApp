@@ -5,11 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="User_Empresa\" />
-    <Folder Include="Usuario\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\TA.Domain.Repository\TA.Domain.Repository.csproj" />
     <ProjectReference Include="..\TA.Infraestructure.Repository\TA.Infraestructure.Repository.csproj" />
     <ProjectReference Include="..\TA.IService\TA.IService.csproj" />
