@@ -11,29 +11,33 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Service", "03-Service", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Domain", "04-Domain", "{00B0D70A-12D9-4220-8DAE-E1883073764B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TA.Domain.BaseEntity", "Ta.Domain.BaseEntity\TA.Domain.BaseEntity.csproj", "{7E03DA44-65C2-4B11-8B18-62B8FA178F99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TA.Domain.BaseEntity", "Ta.Domain.BaseEntity\TA.Domain.BaseEntity.csproj", "{7E03DA44-65C2-4B11-8B18-62B8FA178F99}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-Infraestructure", "05-Infraestructure", "{300B4890-0569-44D7-8BE8-B270EA8FD386}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TA.Domain.Entity", "TA.Domain.Entity\TA.Domain.Entity.csproj", "{55F0388C-702A-4DC8-8587-E3017E0B9547}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TA.Domain.Entity", "TA.Domain.Entity\TA.Domain.Entity.csproj", "{55F0388C-702A-4DC8-8587-E3017E0B9547}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TA.Infraestrucuture.Context", "TA.Infraestrucuture.Context\TA.Infraestrucuture.Context.csproj", "{9C2A970D-7D5B-4F90-8955-CD2A909DA2B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TA.Infraestrucuture.Context", "TA.Infraestrucuture.Context\TA.Infraestrucuture.Context.csproj", "{9C2A970D-7D5B-4F90-8955-CD2A909DA2B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TA.Application.ConnectionString", "TA.Application.ConnectionString\TA.Application.ConnectionString.csproj", "{284308D4-8FD7-4AE0-9727-028A448BAF27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TA.Application.ConnectionString", "TA.Application.ConnectionString\TA.Application.ConnectionString.csproj", "{284308D4-8FD7-4AE0-9727-028A448BAF27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TA.Repository", "TA.Repository\TA.Repository.csproj", "{037D332B-F4AC-4026-8A70-24CDEBC42B44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TA.Repository", "TA.Repository\TA.Repository.csproj", "{037D332B-F4AC-4026-8A70-24CDEBC42B44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TA.Infraestructure.Repository", "TA.Infraestructure.Repository\TA.Infraestructure.Repository.csproj", "{EFE98525-48B5-49D2-A8C7-3B504E7CEEA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TA.Infraestructure.Repository", "TA.Infraestructure.Repository\TA.Infraestructure.Repository.csproj", "{EFE98525-48B5-49D2-A8C7-3B504E7CEEA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TA.Repository.Base", "TA.Base.Repository\TA.Repository.Base.csproj", "{1DAAAA4E-2865-40AF-AFA0-F936FD6686BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TA.Repository.Base", "TA.Base.Repository\TA.Repository.Base.csproj", "{1DAAAA4E-2865-40AF-AFA0-F936FD6686BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TA.Domain.Repository", "TA.Domain.Repository\TA.Domain.Repository.csproj", "{12394318-2A15-4E9A-8814-97ACE94D4F2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TA.Domain.Repository", "TA.Domain.Repository\TA.Domain.Repository.csproj", "{12394318-2A15-4E9A-8814-97ACE94D4F2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TA.IService", "TA.IService\TA.IService.csproj", "{EA25461C-8D67-464E-A1D7-5669A058C20F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TA.IService", "TA.IService\TA.IService.csproj", "{EA25461C-8D67-464E-A1D7-5669A058C20F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TA.Service", "TA.Service\TA.Service.csproj", "{4B294E6C-A578-42E3-92A4-4EC88AFF5867}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TA.Service", "TA.Service\TA.Service.csproj", "{4B294E6C-A578-42E3-92A4-4EC88AFF5867}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TA.Service.Base", "TA.Service.Base\TA.Service.Base.csproj", "{61820BA3-D746-4497-873B-16ECAEAC92DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TA.Service.Base", "TA.Service.Base\TA.Service.Base.csproj", "{61820BA3-D746-4497-873B-16ECAEAC92DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Turnos-API", "Turnos-API", "{1C029F7A-8BB8-4B1B-B5DE-C0D5DCAE7401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnosServicesAPI", "TurnosServicesAPI\TurnosServicesAPI.csproj", "{4F923514-70AC-4E72-8912-4E110C59EB1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -85,6 +89,10 @@ Global
 		{61820BA3-D746-4497-873B-16ECAEAC92DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61820BA3-D746-4497-873B-16ECAEAC92DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61820BA3-D746-4497-873B-16ECAEAC92DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F923514-70AC-4E72-8912-4E110C59EB1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F923514-70AC-4E72-8912-4E110C59EB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F923514-70AC-4E72-8912-4E110C59EB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F923514-70AC-4E72-8912-4E110C59EB1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -101,6 +109,8 @@ Global
 		{EA25461C-8D67-464E-A1D7-5669A058C20F} = {CFA8CDFA-0E2E-48EA-A726-7506DD591E9D}
 		{4B294E6C-A578-42E3-92A4-4EC88AFF5867} = {CFA8CDFA-0E2E-48EA-A726-7506DD591E9D}
 		{61820BA3-D746-4497-873B-16ECAEAC92DB} = {CFA8CDFA-0E2E-48EA-A726-7506DD591E9D}
+		{1C029F7A-8BB8-4B1B-B5DE-C0D5DCAE7401} = {D15F11BB-0E25-4714-B26E-68D7BA371F0C}
+		{4F923514-70AC-4E72-8912-4E110C59EB1F} = {1C029F7A-8BB8-4B1B-B5DE-C0D5DCAE7401}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DFC5A008-411D-4DC2-8924-DD4F4938B5E2}
