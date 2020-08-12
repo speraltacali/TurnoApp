@@ -18,11 +18,6 @@ namespace TurnosServicesAPI.Controllers.Empresa
     {
         private readonly IEmpresaService _empresaService = new EmpresaService();
 
-        //public EmpresaController(EmpresaService empresaService )
-        //{
-        //    _empresaService = empresaService;
-        //}
-
         [HttpGet]
         public async Task<IActionResult> Get()
         {
@@ -52,7 +47,10 @@ namespace TurnosServicesAPI.Controllers.Empresa
                 return BadRequest(ModelState);
             }
 
-            var Empresa = _empresaService.GetById(id);
+            var Empresa = await Task.Run(() =>
+            {
+                return _empresaService.GetById(id);
+            });
 
             if (Empresa == null)
             {
@@ -70,7 +68,10 @@ namespace TurnosServicesAPI.Controllers.Empresa
                 return BadRequest(ModelState);
             }
 
-            var Empresa = _empresaService.Add(empresa);
+            var Empresa = await Task.Run(() =>
+            {
+                return _empresaService.Add(empresa);
+            });
 
             if(Empresa == null)
             {
@@ -93,7 +94,10 @@ namespace TurnosServicesAPI.Controllers.Empresa
                 return BadRequest();
             }
 
-            var Empresa = _empresaService.Update(empresa);
+            var Empresa = await Task.Run(() =>
+            {
+                return _empresaService.Update(empresa);
+            });
 
             try
             {
@@ -122,7 +126,10 @@ namespace TurnosServicesAPI.Controllers.Empresa
                 return BadRequest(ModelState);
             }
 
-            var Empresa = _empresaService.GetById(id);
+            var Empresa = await Task.Run(() =>
+            {
+                return _empresaService.GetById(id);
+            });
 
             if(Empresa == null)
             {
