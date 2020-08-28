@@ -1,0 +1,93 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+:root {
+    --red: #ff2e63;
+    --black: #252a34;
+    --blue: #08d9d6;
+    --white: #eaeaea;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #fff;
+    overflow-x: hidden;
+    font-family: 'Raleway', sans-serif;
+}
+
+/**   Menu de Navegacion  **/
+
+#header {
+    position: relative;
+    position: 100%;
+}
+
+.menu {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background: #808080;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 9999;
+}
+
+    .menu .logo-box {
+        margin-left: 20px;
+    }
+
+        .menu .logo-box h1 a {
+            text-decoration: none;
+            font-size: 35px;
+            font-weight: 400;
+            color: var(--black);
+        }
+
+    .menu .list-container {
+        margin-right: 20px;
+    }
+
+        .menu .list-container .lists {
+            display: flex;
+        }
+
+            .menu .list-container .lists li {
+                list-style: none;
+            }
+
+                .menu .list-container .lists li a {
+                    text-decoration: none;
+                    margin: 0px 15px;
+                    padding: 8px;
+                    color: var(--black);
+                    border-radius: 24px;
+                    font-size: 16px;
+                    transform: 0.3s;
+                }
+
+                    .menu .list-container .lists li a.activo {
+                        background: var(--red);
+                        color: #fff;
+                    }
+
+                    .menu .list-container .lists li a:hover {
+                        background: var(--red);
+                        color: #fff;
+                    }
+
+.btn-menu > .fa-bars {
+    display: none;
+}
+
+/** Menu de Navegacion**/
+
+/** Img Header**/
+
+
