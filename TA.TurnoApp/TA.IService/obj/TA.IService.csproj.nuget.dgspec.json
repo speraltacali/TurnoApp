@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.IService\\TA.IService.csproj": {}
+    "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.IService\\TA.IService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Base.Repository\\TA.Repository.Base.csproj": {
+    "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Base.Repository\\TA.Repository.Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Base.Repository\\TA.Repository.Base.csproj",
+        "projectUniqueName": "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Base.Repository\\TA.Repository.Base.csproj",
         "projectName": "TA.Repository.Base",
-        "projectPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Base.Repository\\TA.Repository.Base.csproj",
-        "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Base.Repository\\obj\\",
+        "projectPath": "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Base.Repository\\TA.Repository.Base.csproj",
+        "packagesPath": "C:\\Users\\joses\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Base.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\joses\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -31,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\TA.Domain.BaseEntity.csproj": {
-                "projectPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\TA.Domain.BaseEntity.csproj"
+              "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\TA.Domain.BaseEntity.csproj": {
+                "projectPath": "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\TA.Domain.BaseEntity.csproj"
               }
             }
           }
@@ -60,24 +61,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\TA.Domain.BaseEntity.csproj": {
+    "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\TA.Domain.BaseEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\TA.Domain.BaseEntity.csproj",
+        "projectUniqueName": "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\TA.Domain.BaseEntity.csproj",
         "projectName": "TA.Domain.BaseEntity",
-        "projectPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\TA.Domain.BaseEntity.csproj",
-        "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\obj\\",
+        "projectPath": "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\TA.Domain.BaseEntity.csproj",
+        "packagesPath": "C:\\Users\\joses\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\Ta.Domain.BaseEntity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\joses\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -136,24 +138,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.IService\\TA.IService.csproj": {
+    "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.IService\\TA.IService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.IService\\TA.IService.csproj",
+        "projectUniqueName": "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.IService\\TA.IService.csproj",
         "projectName": "TA.IService",
-        "projectPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.IService\\TA.IService.csproj",
-        "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.IService\\obj\\",
+        "projectPath": "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.IService\\TA.IService.csproj",
+        "packagesPath": "C:\\Users\\joses\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.IService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\joses\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -167,11 +170,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Base.Repository\\TA.Repository.Base.csproj": {
-                "projectPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Base.Repository\\TA.Repository.Base.csproj"
+              "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Base.Repository\\TA.Repository.Base.csproj": {
+                "projectPath": "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Base.Repository\\TA.Repository.Base.csproj"
               },
-              "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Service.Base\\TA.Service.Base.csproj": {
-                "projectPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Service.Base\\TA.Service.Base.csproj"
+              "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Service.Base\\TA.Service.Base.csproj": {
+                "projectPath": "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Service.Base\\TA.Service.Base.csproj"
               }
             }
           }
@@ -199,24 +202,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Service.Base\\TA.Service.Base.csproj": {
+    "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Service.Base\\TA.Service.Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Service.Base\\TA.Service.Base.csproj",
+        "projectUniqueName": "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Service.Base\\TA.Service.Base.csproj",
         "projectName": "TA.Service.Base",
-        "projectPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Service.Base\\TA.Service.Base.csproj",
-        "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santi\\source\\repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Service.Base\\obj\\",
+        "projectPath": "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Service.Base\\TA.Service.Base.csproj",
+        "packagesPath": "C:\\Users\\joses\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joses\\Source\\Repos\\speraltacali\\TurnoApp\\TA.TurnoApp\\TA.Service.Base\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\joses\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -255,7 +259,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

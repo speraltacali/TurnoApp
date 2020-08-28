@@ -7,3 +7,12 @@ C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Application.Con
 C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Application.ConnectionString\obj\Debug\netcoreapp3.1\TA.Application.ConnectionString.csproj.CoreCompileInputs.cache
 C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Application.ConnectionString\obj\Debug\netcoreapp3.1\TA.Application.ConnectionString.dll
 C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Application.ConnectionString\obj\Debug\netcoreapp3.1\TA.Application.ConnectionString.pdb
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Application.ConnectionString\bin\Debug\netcoreapp3.1\TA.Application.ConnectionString.deps.json
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Application.ConnectionString\bin\Debug\netcoreapp3.1\TA.Application.ConnectionString.dll
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Application.ConnectionString\bin\Debug\netcoreapp3.1\TA.Application.ConnectionString.pdb
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Application.ConnectionString\obj\Debug\netcoreapp3.1\TA.Application.ConnectionString.csprojAssemblyReference.cache
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Application.ConnectionString\obj\Debug\netcoreapp3.1\TA.Application.ConnectionString.AssemblyInfoInputs.cache
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Application.ConnectionString\obj\Debug\netcoreapp3.1\TA.Application.ConnectionString.AssemblyInfo.cs
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Application.ConnectionString\obj\Debug\netcoreapp3.1\TA.Application.ConnectionString.csproj.CoreCompileInputs.cache
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Application.ConnectionString\obj\Debug\netcoreapp3.1\TA.Application.ConnectionString.dll
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Application.ConnectionString\obj\Debug\netcoreapp3.1\TA.Application.ConnectionString.pdb

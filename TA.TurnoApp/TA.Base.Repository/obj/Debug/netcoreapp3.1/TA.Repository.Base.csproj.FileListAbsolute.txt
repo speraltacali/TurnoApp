@@ -10,3 +10,15 @@ C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Base.Repository
 C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Base.Repository\obj\Debug\netcoreapp3.1\TA.Repository.Base.csproj.CopyComplete
 C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Base.Repository\obj\Debug\netcoreapp3.1\TA.Repository.Base.dll
 C:\Users\santi\source\repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Base.Repository\obj\Debug\netcoreapp3.1\TA.Repository.Base.pdb
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Base.Repository\bin\Debug\netcoreapp3.1\TA.Repository.Base.deps.json
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Base.Repository\bin\Debug\netcoreapp3.1\TA.Repository.Base.dll
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Base.Repository\bin\Debug\netcoreapp3.1\TA.Repository.Base.pdb
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Base.Repository\bin\Debug\netcoreapp3.1\TA.Domain.BaseEntity.dll
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Base.Repository\bin\Debug\netcoreapp3.1\TA.Domain.BaseEntity.pdb
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Base.Repository\obj\Debug\netcoreapp3.1\TA.Repository.Base.csprojAssemblyReference.cache
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Base.Repository\obj\Debug\netcoreapp3.1\TA.Repository.Base.AssemblyInfoInputs.cache
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Base.Repository\obj\Debug\netcoreapp3.1\TA.Repository.Base.AssemblyInfo.cs
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Base.Repository\obj\Debug\netcoreapp3.1\TA.Repository.Base.csproj.CoreCompileInputs.cache
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Base.Repository\obj\Debug\netcoreapp3.1\TA.Repository.Base.csproj.CopyComplete
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Base.Repository\obj\Debug\netcoreapp3.1\TA.Repository.Base.dll
+C:\Users\joses\Source\Repos\speraltacali\TurnoApp\TA.TurnoApp\TA.Base.Repository\obj\Debug\netcoreapp3.1\TA.Repository.Base.pdb
